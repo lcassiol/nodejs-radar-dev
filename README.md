@@ -1,6 +1,6 @@
 # >> Radar-dev application
 
-* This is the backend of rocketseat's omni stack week 
+* Projecto desenvolvido durante a semana OMNI Stack da Rocketseat, o objetivo do projeto é o cadastro de desenvolvedores cadastrados no github, utilizando a posição geografica, cadastrando na base de dados usuários persistindo a latitude e longitude e listando tambem baseado em filtros
 
 -------------------------------------------------------
 -
@@ -9,9 +9,9 @@
 
 ## - Here is the frontend project -->
 
-https://github.com/lcassiol/reactjs-radar-dev
+[Frontend](https://github.com/lcassiol/reactjs-radar-dev)
 
 ## - Here is the mobile project -->
 
-https://github.com/lcassiol/RN-radar-dev
+[Mobile](https://github.com/lcassiol/RN-radar-dev)
 
